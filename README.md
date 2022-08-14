@@ -33,6 +33,6 @@ POST http://localhost:8080/media
 {
   "n1": 1,
   "n2": 2,
-  "media": 2
+  "media": 1.5
 }
 ```
