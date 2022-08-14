@@ -22,7 +22,7 @@ docker-compose up -d
 ```
 3. Acessar o endpoint
 ```
-POST http://localhost:8080/media
+POST http://localhost:3000/media
 {
   "n1": 1,
   "n2": 2
